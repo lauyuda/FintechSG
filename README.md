@@ -6,4 +6,3 @@ Adding text here.
 * This is also a bullet point
 
 ### Even Smaller Headline
-![](trump.jpg)
